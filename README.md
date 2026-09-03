@@ -72,7 +72,15 @@ I enjoy turning ideas into real-world applications and continuously improving my
 </div>
 
 <div align="center">
-
+  
+## 🐍 GitHub Contributions
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:2563EB,100:0A0F1E&height=120&section=footer" width="100%"/>
 
 </div>
