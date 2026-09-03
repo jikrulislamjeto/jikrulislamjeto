@@ -63,6 +63,14 @@ I enjoy turning ideas into real-world applications and continuously improving my
 
 </div>
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
